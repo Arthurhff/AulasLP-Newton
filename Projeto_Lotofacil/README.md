@@ -18,7 +18,7 @@ Navegue até o diretório do projeto, compile o código-fonte, execute o program
 
 ### O sistema apresentará o seguinte menu:
 
-![lotofacil](https://github.com/Arthurhff/AulaLP-NEWTON/assets/114191292/f39c0b10-b022-4c88-b77e-2359ec5cdec3)
+![lotofacil](https://github.com/Arthurhff/AulasLP-Newton/assets/114191292/b66814bf-9a62-4355-a9e9-1bc177fc33ea)
 
 Siga as instruções do menu para fazer suas apostas.
 
