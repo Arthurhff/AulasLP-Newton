@@ -18,7 +18,14 @@ Navegue até o diretório do projeto, compile o código-fonte, execute o program
 
 ### O sistema apresentará o seguinte menu:
 
-![lotofacil](https://github.com/Arthurhff/AulasLP-Newton/assets/114191292/b66814bf-9a62-4355-a9e9-1bc177fc33ea)
+**************************
+Menu LOTOFÁCIL:
+1) Apostar de 0 a 100
+2) Apostar de A à Z
+3) Apostar em par ou ímpar
+0) Sair
+**************************
+
 
 Siga as instruções do menu para fazer suas apostas.
 
