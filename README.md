@@ -9,6 +9,7 @@ A tela principal é onde a maioria das interações com o aplicativo ocorre. Ela
 + Campo de Tarefa: Um campo de entrada de texto onde o usuário pode inserir uma nova tarefa a ser adicionada à lista.
 + Botão "Adicionar": Ao clicar neste botão, a tarefa inserida no campo de texto é adicionada à lista de tarefas exibida na tela principal. Cada tarefa é exibida com um número sequencial, por exemplo, "Tarefa 1: [conteúdo da tarefa]". Se o campo de texto estiver vazio, uma mensagem de erro será exibida.
 + Botão "Remover Tarefa": Este botão permite ao usuário selecionar uma tarefa na lista e removê-la. Se nenhuma tarefa estiver selecionada, uma mensagem de erro é exibida.
+
 ![WhatsApp Image 2023-10-31 at 20 03 42](https://github.com/Arthurhff/AulasLP-Newton/assets/114191292/66b7d9f6-31be-4604-b199-4d585316cda9)
 + Botão "Listar Tarefas": Ao clicar neste botão, uma nova janela (frame) é aberta, exibindo uma lista de todas as tarefas na lista de tarefas atual. Esta janela secundária é útil para visualizar todas as tarefas em um formato de lista.
 + Botão "Sair": Este botão permite ao usuário fechar o aplicativo.
